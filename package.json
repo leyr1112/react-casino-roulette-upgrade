@@ -4,10 +4,6 @@
   "description": "The best React Casino Roulette",
   "author": "Ivan Admaers (https://ivanadmaers.com)",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/IvanAdmaers/react-casino-roulette"
-  },
   "private": false,
   "keywords": [
     "react",
@@ -20,7 +16,6 @@
     "react casino roulette"
   ],
   "main": "dist/index.js",
-  "source": "src/index.ts",
   "types": "dist/index.d.ts",
   "engines": {
     "node": ">=16",
