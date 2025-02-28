@@ -1,0 +1,23 @@
+export declare const ACTION_TYPES: {
+    0: string;
+    '00': string;
+    STREET: string;
+    ROW: string;
+    BASKET_US: string;
+    SPLIT: string;
+    CORNER: string;
+    DOUBLE_STREET: string;
+    STRAIGHT_UP: string;
+    '1ST_COLUMN': string;
+    '2ND_COLUMN': string;
+    '3RD_COLUMN': string;
+    '1ST_DOZEN': string;
+    '2ND_DOZEN': string;
+    '3RD_DOZEN': string;
+    '1_TO_18': string;
+    '19_TO_36': string;
+    EVEN: string;
+    ODD: string;
+    RED: string;
+    BLACK: string;
+};
